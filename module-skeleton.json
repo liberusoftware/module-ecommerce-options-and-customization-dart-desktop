@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-options-and-customization-dart-desktop",
+  "capabilityKey": "planned:ecommerce:options-and-customization",
+  "presentation": "dart-desktop",
+  "package": "module_ecommerce_options_and_customization_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/ecommerce/nextjs/options-and-customization.md",
+  "presentationPlan": "projects/ecommerce/features/options-and-customization.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
